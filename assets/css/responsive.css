@@ -1,0 +1,377 @@
+@media only screen and (min-width: 1100px) {
+	.menu ul {
+		display: block !important;
+	}
+}
+@media only screen and (max-width: 1099px) {
+	
+	.header {
+		position: fixed;
+		width: 100%;
+		height: auto !important;
+		padding: 0px !important;
+	}
+	.mobile-menu {
+		display: block;
+	}
+	.logo {
+		display: none;
+	}
+	.name {
+		width: 100%;
+		padding-left: 50px;
+		text-align: left;
+		overflow: hidden;
+		margin:0 !important;
+	}
+	.name {
+		width: 100%;
+		padding-left: 50px;
+		text-align: left;
+		overflow: hidden;
+		margin: 0 !important;
+		padding-top: 8px;
+		padding-bottom: 12px;
+	}
+	.name h3 {
+		float: left;
+	}
+	.mobile-menu {
+		overflow: hidden;
+		float: right;
+		padding-right: 40px;
+	}
+	.mobile-menu i {
+		margin-top: 7px;
+		padding: 0px 5px;
+		font-size: 24px;
+		cursor: pointer;
+	}
+	.page-content {
+		padding-left: 0px;
+	}
+	.menu ul {
+		display: none;
+		padding-bottom: 20px;
+	}
+	.header-full {
+		position: relative;
+	}
+	.social-account {
+		position: absolute;
+		top: 12px;
+		right: 96px;
+		margin: 0;
+		text-align: right;
+		width: auto;
+	}
+	.social-account ul li a i {
+		margin: 0px 3px;
+	}
+	body.bodyblack .mobile-menu i {
+		color: #fff;
+	}
+}
+@media only screen and (max-width: 991px) {
+	.blog-single {
+		margin-bottom: 20px;
+	}
+	
+}
+@media only screen and (max-width: 867px) {
+	.about-me {
+		padding: 70px 0px;
+	}
+	.what-ido{
+		padding: 70px 0px;
+	}
+	.resume-area{
+		padding: 70px 0px;
+	}
+	.skill-area{
+		padding: 70px 0px;
+	}
+	.portfolio-area{
+		padding: 70px 0px;
+	}
+	.blog-area{
+		padding: 70px 0px;
+	}
+	.testimonial{
+		padding: 70px 0px;
+	}
+	.contact{
+		padding: 70px 0px;
+	}
+	.main-container {
+		padding-right: 50px;
+		padding-left: 50px;
+	}
+}
+@media only screen and (max-width: 767px) {
+	.home-full h2 {
+		font-size: 50px;
+	}
+	.about-me {
+		padding: 50px 0px;
+	}
+	.what-ido{
+		padding: 50px 0px;
+	}
+	.resume-area{
+		padding: 50px 0px;
+	}
+	.skill-area{
+		padding: 50px 0px;
+	}
+	.portfolio-area{
+		padding: 50px 0px;
+	}
+	.blog-area{
+		padding: 50px 0px;
+	}
+	.testimonial{
+		padding: 50px 0px;
+	}
+	.contact{
+		padding: 50px 0px;
+	}
+	.section_headding h4 {
+		margin-bottom: 0px;
+	}
+	.section_headding {
+		margin-bottom: 20px;
+	}
+	.about-me-content {
+		margin-top: 30px;
+	}
+	.about-me-img {
+		width: 70%;
+		margin: 0 auto;
+	}
+	.main-container {
+		padding-right: 45px;
+		padding-left: 45px;
+	}
+	.about-me-content h5 {
+		margin-bottom: 10px;
+	}
+	.port-list ul li {
+		margin: 0px 2px;
+	}
+	.portfolio-item-full {
+		margin-left: 0px !important;
+		margin-right: 0px !important;
+	}
+}
+@media only screen and (max-width: 676px) {
+	.name {
+		padding-left: 20px;
+	}
+	.mobile-menu {
+		padding-right: 20px;
+	}
+	.social-account {
+		right: 65px;
+	}
+	.menu {
+		padding-left: 20px;
+	}
+	.home-full h2 {
+		font-size: 45px;
+		margin-top: 7px;
+		margin-bottom: 15px;
+	}
+	.main-container {
+		padding-right: 40px;
+		padding-left: 40px;
+	}
+	.about-me {
+		padding: 30px 0px;
+	}
+	.what-ido{
+		padding: 30px 0px;
+	}
+	.resume-area{
+		padding: 30px 0px;
+	}
+	.skill-area{
+		padding: 30px 0px;
+	}
+	.portfolio-area{
+		padding: 30px 0px;
+	}
+	.blog-area{
+		padding: 30px 0px;
+	}
+	.testimonial{
+		padding: 30px 0px;
+	}
+	.contact{
+		padding: 30px 0px;
+	}
+	.about-me-content h2 {
+		font-size: 25px;
+		letter-spacing: .6px;
+		margin: 3px 0px;
+		margin-bottom: 8px;
+	}
+	.port-list ul li {
+		margin: 3px 2px;
+		font-size: 13px;
+		font-weight: 600;
+		padding: 5px 10px;
+	}
+	.port-list {
+		margin-bottom: 30px;
+	}
+}
+@media only screen and (max-width: 576px) {
+	.home-full h2 {
+		font-size: 40px;
+	}
+	.main-container {
+		padding-right: 35px;
+		padding-left: 35px;
+	}
+	.section_headding h4 {
+		font-size: 25px;
+	}
+	.skill-single h2 {
+		font-size: 17px;
+	}
+	.port-list {
+		margin-bottom: 20px;
+	}
+	.portfolio-item-single {
+		margin-bottom: 15px;
+	}
+}
+@media only screen and (max-width: 520px) {
+	.name {
+		padding-left: 15px;
+	}
+	.mobile-menu {
+		padding-right: 15px;
+	}
+	.social-account {
+		right: 58px;
+	}
+	.social-account ul li a i {
+		width: 28px;
+		height: 28px;
+		font-size: 13px;
+		margin: 0px 2px;
+	}
+	.home-full h2 {
+		font-size: 35px;
+	}
+	.home-full h4 {
+		font-size: 25px;
+	}
+	.about-me-img {
+		width: 85%;
+	}
+	.main-container {
+		padding-right: 30px;
+		padding-left: 30px;
+	}
+	.about-me {
+		padding: 20px 0px;
+	}
+	.what-ido{
+		padding: 20px 0px;
+	}
+	.resume-area{
+		padding: 20px 0px;
+	}
+	.skill-area{
+		padding: 20px 0px;
+	}
+	.portfolio-area{
+		padding: 20px 0px;
+	}
+	.blog-area{
+		padding: 20px 0px;
+	}
+	.testimonial{
+		padding: 20px 0px;
+	}
+	.contact{
+		padding: 20px 0px;
+	}
+	.about-me-content h5 {
+		margin-bottom: 0px;
+	}
+	.about-me-content h2 {
+		font-size: 22px;
+		margin-bottom: 4px;
+	}
+	.about-me-content p:first-of-type {
+		margin-bottom: 4px;
+	}
+	.what-ido-single-content h2 {
+		font-size: 18px;
+		margin-bottom: 0px;
+	}
+	.resume-item-top {
+		margin-bottom: 5px;
+		padding-bottom: 5px;
+	}
+	.resume-item-bottom h4 {
+		font-size: 18px;
+	}
+	.resume-item-bottom h5 {
+		font-size: 17px;
+		margin: 4px 0px;
+	}
+	.resume-item-bottom p {
+		line-height: 1.6;
+	}
+	.resume-item {
+		margin-bottom: 10px;
+	}
+	.what-ido-single {
+		margin-bottom: 10px;
+	}
+}
+@media only screen and (max-width: 420px) {
+	.social-account ul li a i {
+		width: 24px;
+		height: 24px;
+		font-size: 12px;
+		margin: 0px 0px;
+	}
+	.social-account {
+		display: none;
+	}
+	.home-full h2 {
+		font-size: 30px;
+	}
+	.about-me-img {
+		width: 100%;
+	}
+	.main-container {
+		padding-right: 20px;
+		padding-left: 20px;
+	}
+	.blog-single-content h2 a {
+		font-size: 18px;
+	}
+	.copyright {
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+}
+@media only screen and (max-width: 360px) {
+	.home-full h4 {
+		font-size: 20px;
+	}
+	.main-container {
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+	.testimonial-single {
+		margin: 6%;
+	}
+}
