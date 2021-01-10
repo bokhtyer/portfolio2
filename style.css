@@ -46,6 +46,14 @@ button:focus{
 input:focus{
 	outline: none;
 }
+
+textarea:focus{
+	outline: none;
+}
+
+textarea{
+	outline: none;
+}
 p{
 	color: #191919;
 }
